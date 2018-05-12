@@ -1,4 +1,8 @@
 _repo: The-religious-and-loyal-subject-s-duty-considered-with-regard-to-the-present-Government-and-t__48349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48349-h/images/cover.jpg
 creator:
   author:
     agent_name: Terry, Isaac
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44748'
     url: http://www.gutenberg.org/2009/agents/44748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48349#The-religious-and-loyal-subject-s-duty-considered-with-regard-to-the-present-Government-and-t_
 gutenberg_issued: '2015-02-23'
 gutenberg_type: Text
 identifiers:
